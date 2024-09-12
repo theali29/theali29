@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 * I'm interested in Web Development.
-* I'm a Back-End Developer.I'm currently working to become a Full Stack Developer.
+* I'm a Back-End Developer. I'm currently working on becoming a Full Stack Developer.
 
 
 
@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 # How to reach me 📫 
 <a href='https://twitter.com/aliisjustfine'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png' width=40px height=40px>
+<img src='[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png](https://cdn.mos.cms.futurecdn.net/z3bn6deaxmrjmQHNEkpcZE-970-80.jpg.webp)' width=40px height=40px>
 </a>
