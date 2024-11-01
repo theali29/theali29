@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 # How to reach me 📫 
 <a href='https://twitter.com/aliisjustfine'>
-<img src='[https://img.freepik.com/vecteurs-premium/nouveau-vecteur-logo-twitter-x-vecteur-signe-twitter-x_952796-6.jpg?semt=ais_hybrid]' width=40px height=40px>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ecranmobile.fr%2FX-Introduit-de-Nouvelles-Options-pour-les-Createurs-de-Contenu-Video_a75367.html&psig=AOvVaw2s1LQYo7KuWfYEYK9rl2-s&ust=1730563153305000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDSo6bBu4kDFQAAAAAdAAAAABBR' width=40px height=40px>
 </a>
