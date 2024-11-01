@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 # How to reach me 📫 
 <a href='https://twitter.com/aliisjustfine'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg' width=60px height=60px>
+<img src='https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg' width=40px height=40px>
 </a>
