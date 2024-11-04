@@ -62,6 +62,4 @@ Here are some ideas to get you started:
 <a href='https://twitter.com/aliisjustfine'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg' width=40px height=40px>
 </a>
-<a href='mohammad81016@gmail.com'>
-<img src='https://w7.pngwing.com/pngs/17/643/png-transparent-iphone-computer-icons-email-email-miscellaneous-blue-angle-thumbnail.png' width=40px height=40px>
-</a>
+
