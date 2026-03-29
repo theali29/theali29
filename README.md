@@ -1,4 +1,4 @@
-# Hi everyone 👋, I'm Ali
+# Hi 👋, I'm Ali
 
 <!--
 **theali29/theali29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
